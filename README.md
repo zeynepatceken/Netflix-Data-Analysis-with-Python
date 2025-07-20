@@ -25,4 +25,3 @@ To run this project:
 3. Load the dataset and execute the Python script to generate visualizations.
 
 
-**NOTE** : This project is an original analysis project that I wrote myself as a result of the data analysis course I took on the Global AI Hub platform and my Python education at school.
